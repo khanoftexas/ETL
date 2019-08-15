@@ -172,4 +172,3 @@ def api():
 # Execute the script
 if __name__ == '__main__':
     app.run(debug=True)
-
